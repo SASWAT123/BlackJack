@@ -1,14 +1,3 @@
-
-# coding: utf-8
-
-# # Milestone Project 2 - Solution
-# Below is my implementation of a simple game of Blackjack. Notice the use of OOP and classes for the cards and hands.
-
-# Let's start by defining some global objects for the cards, tuples and a dict.
-
-# In[8]:
-
-
 # Used for card shuffle
 import random
 
